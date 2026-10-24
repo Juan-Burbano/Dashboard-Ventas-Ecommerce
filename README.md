@@ -63,4 +63,4 @@ Los datos se generaron con imperfecciones intencionales, típicas de un entorno 
 
 ## Autor
 
-Juan David Burbano — [LinkedIn](https://www.linkedin.com/in/juan-david-burbano-pineda-181b61296/) · [GitHub](#)
+Juan David Burbano — [LinkedIn](https://www.linkedin.com/in/juan-david-burbano-pineda-181b61296/) · [GitHub](https://github.com/Juan-Burbano)
